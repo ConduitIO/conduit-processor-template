@@ -12,6 +12,7 @@ test:
 generate:
 	go generate ./...
 
+
 .PHONY: install-tools
 install-tools:
 	@echo Installing tools from tools.go
