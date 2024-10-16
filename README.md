@@ -6,7 +6,7 @@ start working on a Conduit processor in a matter of seconds.
 ## Quick start
 
 1. Click [_Use this template_]() and clone your new repository.
-2. Initialize the repository using [`setup.sh`](https://github.com/ConduitIO/conduit-connector-template/blob/main/setup.sh) and commit your changes.
+2. Initialize the repository using [`setup.sh`](https://github.com/ConduitIO/conduit-processor-template/blob/main/setup.sh) and commit your changes.
    ```sh
    ./setup.sh github.com/myusername/conduit-processor-myprocessor
    git add -A
@@ -41,15 +41,15 @@ some repository settings.
 
 1. Navigate to Settings -> General and allow auto-merge of PRs.
 
-   ![Allow auto-merge](https://github.com/ConduitIO/conduit-connector-template/assets/8320753/695b15f0-85b4-49cb-966d-649e9bf03455)
+   ![Allow auto-merge](https://github.com/user-attachments/assets/c1b6605a-866d-4bb6-b374-32328d83cd2d)
 
 2. Navigate to Settings -> Branches and add a branch protection rule.
 
-   ![Add branch protection rule](https://github.com/ConduitIO/conduit-connector-template/assets/8320753/9f5a07bc-d141-42b9-9918-e8d9cc648482)
+   ![Add branch protection rule](https://github.com/user-attachments/assets/dda83e9c-195b-40a0-87bb-7ae7dc8683ca)
 
 3. Create a rule for branch `main` that requires status checks `build` and `golangci-lint`.
 
-   ![Status checks](https://github.com/ConduitIO/conduit-connector-template/assets/8320753/96219185-c329-432a-8623-9b4462015f32)
+   ![Status checks](https://github.com/user-attachments/assets/bfc69fe8-8c3d-4f2a-a2c5-ae4395d7019f)
 
 ## Recommended repository settings
 
