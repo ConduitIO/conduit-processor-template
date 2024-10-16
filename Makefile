@@ -2,7 +2,7 @@ VERSION=$(shell git describe --tags --dirty --always)
 
 .PHONY: build
 build:
-	go build -ldflags "-X 'github.com/conduitio/conduit-processor-processorname.version=${VERSION}'" -o conduit-processor-processorname cmd/processor/main.go
+	GOARCH=wasm GOOS=wasip1 go build -o processor.wasm cmd/processor/main.go
 
 .PHONY: test
 test:
