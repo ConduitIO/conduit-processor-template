@@ -18,7 +18,7 @@ start working on a Conduit processor in a matter of seconds.
    git add -A
    git commit -m "initialize repository"
    ```
-3. Set up [automatic Dependabot PR merges](#automatically-merging-dependabot-prs).a
+3. Set up [automatic Dependabot PR merges](#automatically-merging-dependabot-prs).
 
 With that, you're all set up and ready to start working on your processor! As a next step, we recommend that you 
 check out the [Conduit Processor SDK](https://github.com/ConduitIO/conduit-processor-sdk).
