@@ -28,7 +28,7 @@ check out the [Conduit Processor SDK](https://github.com/ConduitIO/conduit-proce
 * Skeleton code for the processor and its configuration.
 * Example unit tests.
 * A [Makefile](/Makefile) with commonly used targets.
-* A [GitHub workflow](/.github/workflows/build.yml) to build the code and run the tests.
+* A [GitHub workflow](/.github/workflows/test.yml) to build the code and run the tests.
 * A [GitHub workflow](/.github/workflows/lint.yml) to run a pre-configured set of linters.
 * A [GitHub workflow](/.github/workflows/release.yml) which automatically creates a release when a tag is pushed.
 * A [Dependabot setup](/.github/dependabot.yml) which checks your dependencies for available updates and 
