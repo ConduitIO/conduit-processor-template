@@ -11,7 +11,7 @@ start working on a Conduit processor in a matter of seconds.
 
 ## Quick start
 
-1. Click [_Use this template_]() and clone your new repository.
+1. Click [_Use this template_](https://github.com/new?template_name=conduit-processor-template&template_owner=ConduitIO) and clone your new repository.
 2. Initialize the repository using [`setup.sh`](https://github.com/ConduitIO/conduit-processor-template/blob/main/setup.sh) and commit your changes.
    ```sh
    ./setup.sh github.com/myusername/conduit-processor-myprocessor
