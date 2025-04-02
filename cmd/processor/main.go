@@ -4,7 +4,7 @@ package main
 
 import (
 	sdk "github.com/conduitio/conduit-processor-sdk"
-	processorname "github.com/conduitio/conduit-processor-template"
+	processorname "github.com/conduitio/conduit-processor-processorname"
 )
 
 func main() {
