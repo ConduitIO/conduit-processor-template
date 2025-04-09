@@ -26,8 +26,8 @@ type ProcessorConfig struct {
 }
 
 func NewProcessor() sdk.Processor {
-	// Create Processor and wrap it in the default middleware.
-	return sdk.ProcessorWithMiddleware(&Processor{}, sdk.DefaultProcessorMiddleware()...)
+	// Create Processor. The default middleware will be automatically added by the SDK.
+	return &Processor{}
 }
 
 func (p *Processor) Configure(ctx context.Context, cfg config.Config) error {
