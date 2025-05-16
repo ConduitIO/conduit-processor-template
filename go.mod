@@ -3,7 +3,7 @@ module github.com/conduitio/conduit-processor-processorname
 go 1.24.2
 
 require (
-	github.com/conduitio/conduit-commons v0.5.2
+	github.com/conduitio/conduit-commons v0.5.3
 	github.com/conduitio/conduit-processor-sdk v0.4.3
 )
 
@@ -18,6 +18,6 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/rs/zerolog v1.34.0 // indirect
 	github.com/twmb/go-cache v1.2.1 // indirect
-	golang.org/x/sys v0.31.0 // indirect
+	golang.org/x/sys v0.33.0 // indirect
 	google.golang.org/protobuf v1.36.6 // indirect
 )
