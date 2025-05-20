@@ -1,7 +1,7 @@
 github.com/conduitio/conduit-commons v0.5.3 h1:JqbyokOloZf4VXx3qcYyOgFYR+ME+1bKSOq9OPDVchA=
 github.com/conduitio/conduit-commons v0.5.3/go.mod h1:GtxenYQA3eWPeH+rCdycHVO/zE9rngAmwRAlqvshL+8=
-github.com/conduitio/conduit-processor-sdk v0.4.3 h1:ig1GF5SRwSZb4ej9E3ZcvbLh3rDTgomptqRvjI4ry8k=
-github.com/conduitio/conduit-processor-sdk v0.4.3/go.mod h1:2EkF3uF30ChbDqiWlEWFYHJ7cq0qsA+nWScVE0vfwKg=
+github.com/conduitio/conduit-processor-sdk v0.4.4 h1:FJrWYSHvlGfTDO6pxQE0aiTkqqID+zQ1PjnLimVJyHk=
+github.com/conduitio/conduit-processor-sdk v0.4.4/go.mod h1:i0E3ZJgu2SzkBh7IINU2YdBh/qhaSkLeKYBusJfnQ5I=
 github.com/coreos/go-systemd/v22 v22.5.0/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
